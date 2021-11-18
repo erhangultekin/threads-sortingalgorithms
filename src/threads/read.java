@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  *
  * @author Erhan
  */
-public class Main{
+public class Read{
     
     public static void main(String[] args) throws FileNotFoundException, IOException, InterruptedException {
         
