@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package thread;
 
 import java.io.BufferedReader;
@@ -17,9 +13,9 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author DELL
+ * @author Erhan
  */
-public class Soru2Deneme{
+public class Main{
     
     public static void main(String[] args) throws FileNotFoundException, IOException, InterruptedException {
         
