@@ -11,9 +11,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author DELL
+ * @author Erhan
  */
-public class Soru1Deneme{
+public class Sorting{
     
     static void printElement(int [] arrayElements){
          for (int i = 0; i < arrayElements.length; i++) {
